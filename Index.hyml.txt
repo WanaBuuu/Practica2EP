@@ -5,4 +5,6 @@
 <br><br>
 <center><h1> Portada web
 <\center>
+<br>
+<img // eve termina esta linea
 <\html> 

@@ -1,0 +1,8 @@
+<html>
+	<title>
+	Prueba de fichero html
+	<\title>
+<br><br>
+<center><h1> Portada web
+<\center>
+<\html> 
